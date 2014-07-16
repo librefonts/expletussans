@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <VDMX>
+    <hexdata>
+      00000001 00010101 0101000c 00f808ff
+      00080008 fffd0009 0009fffd 000a0009
+      fffd000b 000afffc 000c000b fffc000d
+      000cfffc 000e000d fffb000f 000efffb
+      0010000f fffb0011 0010fffb 00120011
+      fffa0013 0012fffa 00140012 fffa0015
+      0013fff9 00160014 fff90017 0015fff9
+      00180016 fff80019 0017fff8 001a0018
+      fff8001b 0019fff8 001c001a fff7001d
+      001bfff7 001e001b fff7001f 001cfff6
+      0020001d fff60021 001efff6 0022001f
+      fff60023 0020fff5 00240021 fff50025
+      0022fff5 00260023 fff40027 0024fff4
+      00280024 fff40029 0025fff3 002a0026
+      fff3002b 0027fff3 002c0028 fff3002d
+      0029fff2 002e002a fff2002f 002bfff2
+      0030002c fff10031 002dfff1 0032002d
+      fff10033 002efff1 0034002f fff00035
+      0030fff0 00360031 fff00037 0032ffef
+      00380033 ffef0039 0034ffef 003a0035
+      ffef003b 0036ffee 003c0036 ffee003d
+      0037ffee 003e0038 ffed003f 0039ffed
+      0040003a ffed0041 003bffec 0042003c
+      ffec0043 003dffec 0044003e ffec0045
+      003fffeb 0046003f ffeb0047 0040ffeb
+      00480041 ffea0049 0042ffea 004a0043
+      ffea004b 0044ffea 004c0045 ffe9004d
+      0046ffe9 004e0047 ffe9004f 0048ffe8
+      00500048 ffe80051 0049ffe8 0052004a
+      ffe70053 004bffe7 0054004c ffe70055
+      004dffe7 0056004e ffe60057 004fffe6
+      00580050 ffe60059 0051ffe5 005a0051
+      ffe5005b 0052ffe5 005c0053 ffe5005d
+      0054ffe4 005e0055 ffe4005f 0056ffe4
+      00600057 ffe30061 0058ffe3 00620059
+      ffe30063 005affe2 0064005a ffe20065
+      005bffe2 0066005c ffe20067 005dffe1
+      0068005e ffe10069 005fffe1 006a0060
+      ffe0006b 0061ffe0 006c0062 ffe0006d
+      0062ffe0 006e0063 ffdf006f 0064ffdf
+      00700065 ffdf0071 0066ffde 00720067
+      ffde0073 0068ffde 00740069 ffde0075
+      006affdd 0076006b ffdd0077 006bffdd
+      0078006c ffdc0079 006dffdc 007a006e
+      ffdc007b 006fffdb 007c0070 ffdb007d
+      0071ffdb 007e0072 ffdb007f 0073ffda
+      00800074 ffda0081 0074ffda 00820075
+      ffd90083 0076ffd9 00840077 ffd90085
+      0078ffd9 00860079 ffd80087 007affd8
+      0088007b ffd80089 007cffd7 008a007d
+      ffd7008b 007dffd7 008c007e ffd6008d
+      007fffd6 008e0080 ffd6008f 0081ffd6
+      00900082 ffd50091 0083ffd5 00920084
+      ffd50093 0085ffd4 00940086 ffd40095
+      0086ffd4 00960087 ffd40097 0088ffd3
+      00980089 ffd30099 008affd3 009a008b
+      ffd2009b 008cffd2 009c008d ffd2009d
+      008effd1 009e008f ffd1009f 008fffd1
+      00a00090 ffd100a1 0091ffd0 00a20092
+      ffd000a3 0093ffd0 00a40094 ffcf00a5
+      0095ffcf 00a60096 ffcf00a7 0097ffcf
+      00a80098 ffce00a9 0098ffce 00aa0099
+      ffce00ab 009affcd 00ac009b ffcd00ad
+      009cffcd 00ae009d ffcd00af 009effcc
+      00b0009f ffcc00b1 00a0ffcc 00b200a1
+      ffcb00b3 00a1ffcb 00b400a2 ffcb00b5
+      00a3ffca 00b600a4 ffca00b7 00a5ffca
+      00b800a6 ffca00b9 00a7ffc9 00ba00a8
+      ffc900bb 00a9ffc9 00bc00aa ffc800bd
+      00aaffc8 00be00ab ffc800bf 00acffc8
+      00c000ad ffc700c1 00aeffc7 00c200af
+      ffc700c3 00b0ffc6 00c400b1 ffc600c5
+      00b2ffc6 00c600b3 ffc500c7 00b3ffc5
+      00c800b4 ffc500c9 00b5ffc5 00ca00b6
+      ffc400cb 00b7ffc4 00cc00b8 ffc400cd
+      00b9ffc3 00ce00ba ffc300cf 00bbffc3
+      00d000bb ffc300d1 00bcffc2 00d200bd
+      ffc200d3 00beffc2 00d400bf ffc100d5
+      00c0ffc1 00d600c1 ffc100d7 00c2ffc1
+      00d800c3 ffc000d9 00c4ffc0 00da00c4
+      ffc000db 00c5ffbf 00dc00c6 ffbf00dd
+      00c7ffbf 00de00c8 ffbe00df 00c9ffbe
+      00e000ca ffbe00e1 00cbffbe 00e200cc
+      ffbd00e3 00cdffbd 00e400cd ffbd00e5
+      00ceffbc 00e600cf ffbc00e7 00d0ffbc
+      00e800d1 ffbc00e9 00d2ffbb 00ea00d3
+      ffbb00eb 00d4ffbb 00ec00d5 ffba00ed
+      00d6ffba 00ee00d6 ffba00ef 00d7ffb9
+      00f000d8 ffb900f1 00d9ffb9 00f200da
+      ffb900f3 00dbffb8 00f400dc ffb800f5
+      00ddffb8 00f600de ffb700f7 00dfffb7
+      00f800df ffb700f9 00e0ffb7 00fa00e1
+      ffb600fb 00e2ffb6 00fc00e3 ffb600fd
+      00e4ffb5 00fe00e5 ffb500ff 00e6ffb5
+    </hexdata>
+  </VDMX>
+
+</ttFont>
