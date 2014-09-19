@@ -1,0 +1,258 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Expletus Sans
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2009 by Jasper de Waard. All rights reserved.
+    License: SIL Open Font License
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 7.029
+    Vendor: Jasper de Waard
+    Designer: Jasper de Waard
+    Designer url: www.designtown.nl
+    Glyph count: 218
+    Character count: 218
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 95
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Expletus Sans
+    Sub family: Bold Italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2009 by Jasper de Waard. All rights reserved.
+    License: SIL Open Font License
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 7.029
+    Vendor: Jasper de Waard
+    Designer: Jasper de Waard
+    Designer url: www.designtown.nl
+    Glyph count: 224
+    Character count: 218
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 95
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Expletus Sans
+    Sub family: Italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2009 by Designtown. All rights reserved.
+    License: SIL Open Font License
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 7.028
+    Vendor: Designtown
+    Designer: Jasper de Waard
+    Designer url: www.designtown.nl
+    Glyph count: 218
+    Character count: 217
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 95
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Expletus Sans
+    Sub family: Medium
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 by Jasper de Waard. All rights reserved.
+    License: SIL Open Font License
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.002
+    Vendor: Jasper de Waard
+    Designer: Jasper de Waard
+    Designer url: www.designtown.nl
+    Glyph count: 218
+    Character count: 218
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 95
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Expletus Sans
+    Sub family: Medium Italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 by Jasper de Waard. All rights reserved.
+    License: SIL Open Font License
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.002
+    Vendor: Jasper de Waard
+    Designer: Jasper de Waard
+    Designer url: www.designtown.nl
+    Glyph count: 218
+    Character count: 218
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 95
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Expletus Sans
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2009 by Designtown. All rights reserved.
+    License: SIL Open Font License
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 7.028
+    Vendor: Designtown
+    Designer: Jasper de Waard
+    Designer url: www.designtown.nl
+    Glyph count: 218
+    Character count: 217
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 95
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Expletus Sans
+    Sub family: SemiBold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 by Jasper de Waard. All rights reserved.
+    License: SIL Open Font License
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.002
+    Vendor: Jasper de Waard
+    Designer: Jasper de Waard
+    Designer url: www.designtown.nl
+    Glyph count: 218
+    Character count: 218
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 95
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Expletus Sans
+    Sub family: SemiBold Italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2010 by Jasper de Waard. All rights reserved.
+    License: SIL Open Font License
+    License url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+    Version: Version 1.002
+    Vendor: Jasper de Waard
+    Designer: Jasper de Waard
+    Designer url: www.designtown.nl
+    Glyph count: 218
+    Character count: 218
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 95
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23

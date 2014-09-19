@@ -1,0 +1,7 @@
+commit: HEAD
+process_files: [ExpletusSans-SemiBoldItalic.ttf.ttx, ExpletusSans-SemiBold.ttf.ttx,
+  ExpletusSans-Regular.ttf.ttx, ExpletusSans-MediumItalic.ttf.ttx, ExpletusSans-Medium.ttf.ttx,
+  ExpletusSans-Italic.ttf.ttx, ExpletusSans-BoldItalic.ttf.ttx, ExpletusSans-Bold.ttf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
